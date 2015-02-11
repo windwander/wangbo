@@ -1,0 +1,216 @@
+/* wangbo stylesheet by Zhujiyou */
+
+.get {
+    background: #1E5B94;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.get-title {
+    font-size: 200%;
+    border: 2px solid #fff;
+    padding: 20px;
+    display: inline-block;
+}
+
+.what-title {
+    font-size: 160%;
+    color: #34495e;
+}
+
+.detail {
+    margin: 60px 10px;
+    background: #fff;
+}
+
+.detail ul {
+    height: 60px;
+}
+
+.am-tabs-d2 .am-alert {
+    margin: 0;
+}
+
+.am-tabs-d2 .am-tabs-nav {
+    background-color: #F4F4F4;
+}
+
+.detail .am-tabs-nav a,
+.detail .am-tabs-nav>.am-active a {
+    line-height: 60px !important;
+}
+
+.detail .am-tabs-nav>.am-active {
+    height: 60px !important;
+}
+
+.detail .am-tabs-nav>.am-active {
+    border-width: 4px !important;
+}
+
+.detail-tab-1 a {
+    color: #16DCF2 !important;
+}
+
+.detail-tab-2 a {
+    color: #F2B441 !important;
+}
+
+.detail-tab-3 a {
+    color: #F23838 !important;
+}
+
+.detail-h2 {
+    text-align: center;
+    font-size: 150%;
+    margin: 40px 0;
+}
+
+.detail-h3 {
+    color: #1f8dd6;
+}
+
+.detail-p {
+    color: #7f8c8d;
+}
+
+.detail-mb {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.hope {
+    background: #0bb59b;
+}
+
+.hope-img {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.hope-hr {
+    border-color: #149C88;
+    margin: 40px 0 -50px;
+}
+
+.hope-title {
+    font-size: 140%;
+}
+
+.hope-article {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.about {
+    background: #fff;
+    padding: 40px 0;
+    color: #7f8c8d;
+}
+
+.about-color {
+    color: #34495e;
+}
+
+.about-title {
+    font-size: 180%;
+    padding: 30px 0 50px 0;
+    text-align: center;
+}
+
+.footer {
+    color: #7f8c8d;
+    margin: 0;
+    padding: 15px 0;
+    background: #2d3e50;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer h3 {
+    font-size: 1.6em;
+}
+
+.footer hr {
+    border-color: #5A5A5A;
+    margin: 15px 0;
+}
+/* list.html */
+
+#wb-list {
+    color: #B5B5B6;
+    background: #040108 url(../i/partners/bj.jpg) repeat-y left top;
+    filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+    -moz-background-size: 100% auto;
+    background-size: 100% auto;
+}
+
+#wb-list .wexin-icon {
+    height: 0;
+    width: 0;
+}
+
+#wb-list .wb-list-banner h1 {
+    text-indent: -9999px;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+#wb-list .wb-list-banner a img {
+    width: 100%;
+    background: #fff url(../i/tt.jpg) no-repeat top left;
+    filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+#wb-list .wb-list-panel-hd {
+    background-color: #2A2728;
+    border: 2px solid #595757;
+    border-left: none;
+    border-right: none;
+}
+
+#wb-list .wb-list-panel-title {
+    font-size: 1.6rem;
+    padding: .2rem 1.2rem;
+    margin: 0;
+}
+
+#wb-list ol {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    padding-top: 2rem;
+}
+
+#wb-list ol li {
+    width: 33%;
+}
+
+#wb-list ol li a {
+    color: #B5B5B6;
+}
+
+#wb-list ol li a img {
+    width: 55%;
+    border-radius: 50%;
+    border: #B5B5B6 2px solid;
+    -webkit-transition: border 0.3s;
+    -moz-transition: border 0.3s;
+    transition: border 0.3s;
+}
+
+#wb-list ol li a:hover img {
+    border: #fff 2px solid;
+}
+
+#wb-list ol li a p {
+    font-size: 1.2rem;
+    margin: .5rem 1rem 3rem;
+}
